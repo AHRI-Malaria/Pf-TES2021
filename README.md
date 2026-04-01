@@ -1,0 +1,1 @@
+This repository contains data and analytical code for Evaluation of the efficacy of artemether–lumefantrine and artesunate–pyronaridine each combined with single low-dose primaquine in adults with Plasmodium falciparum infection in Ethiopia: a phase 2/3, observer-masked, randomised, parallel group trial
